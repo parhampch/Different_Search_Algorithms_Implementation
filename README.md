@@ -1,1 +1,2 @@
 # Different_Search_Algorithms_Implementation
+In this project I implemented four different search algorithms. At first, I implemented a BFS-based algorithm for solving a problem from the "finding shortest path" category. For the second problem, I implemented the A* and Anytime Weighted A* algorithms with three different heuristics to solve a game. At last, I implemented the Simulated Annealing and Genetic algorithms to solve the minimum vertex cover problem approximately.
